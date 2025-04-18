@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Booking - Events</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <script defer src="script/event.js"></script>
+</head>
+<body>
+  
+  <!--Header -->
+  <header>
+        <!-- Navigation Menu -->
+        <div class="menu-icon">
+          <img src="/assets/images/menu-icon-1.png" loading="lazy" alt="Menu Icon">
+        </div>
+        <nav>
+          <!-- Logo -->
+          <a href="index.html" class="logo"><img src="/assets/images/es2.png" loading="lazy" alt="Logo"></a>
+          <!-- Navigation Menu For Larger Screens -->
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="events.html" class="active">Events</a></li>
+              <li><a href="contact.html">Contact</a></li>
+              <li><a href="post.html">Post</a></li>
+          </ul>
+          <!-- Navigation Menu For Smaller Screens -->
+          <ul id="menu-list">
+            <li id="close-menu"><img src="assets/images/cross.png" loading="lazy" alt="cross"></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="events.html"  class="active">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="post.html">Post</a></li>
+          </ul>
+
+          <!-- Settings -->
+        <img class="gearIcon" title="Preference Settings" src="/assets//images/settingsIcon-removebg-preview.png" loading="lazy" alt="Setting Gear Icon">
+        <!-- *************** -->
+         <div class="customize">
+          <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+          <p class="font-sizes">Font-size</p>
+          <p class="header-background">Header background</p>
+         </div>
+        
+         <!-- *************** -->
+         <div class="header-background-buttons closeButtons">
+          <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+          <button type="button" class="primary-bg">Primary</button>
+          <button type="button" class="secondary-bg">Secondary</button>
+          <button type="button" class="tertiary-bg">Tertiary</button>
+          <div class="color-picker">
+            <label for="color">Custom color:</label>
+            <input type="color" id="color">
+          </div>
+        </div>
+
+         <!-- Customization buttons -->
+         <div class="custom-buttons closeButtons">
+          <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+          <button type="button" id="smallFont">Small</button>
+          <button type="button" id="mediumFont">Medium</button>
+          <button type="button" id="largeFont">Large</button>
+        </div>
+        </nav>
+    </header>
+
+    <!-- Featured Events -->
+    <main class="all-event-list">
+      <section class="search-and-filter">
+        <!-- Search Bar --> 
+        <div class="search-box">
+          <div class="search-bar">
+            <label for="searchInput"></label>
+            <input type="text" name="searchInput" id="searchInput" placeholder="Search events by title or location">
+          </div>
+          <div class="search-image">
+            <img src="/assets/images/search-icon.png" loading="lazy" alt="Search Icon">
+          </div>
+        </div>
+
+         <!-- Dropdown for fee range filter -->
+        <div class="filter">
+          <span>Filter by ticket fee </span>
+          <select title="See featured events for result" id="feeFilter" placeholder="filter">
+            <option value="all">All Fees</option>
+            <option value="below-50">Below &pound;50</option>
+            <option value="50-100">&pound;50 - &pound;100</option>
+            <option value="100-150">&pound;100 - &pound;150</option>
+            <option value="150-200">&pound;150 - &pound;200</option>
+            <option value="above-200">Above &pound;200</option>
+          </select>
+        </div>
+      </section>
+      <section class="featured-events" id="eventContainer">
+        <h2>Start Booking</h2>
+        <h3 class="event-header">Saved Events</h3>
+        <div class="saved-events"></div>
+        <h3 class="event-header">Featured Events</h3>
+        <div class="events"></div>
+        <button type="button" class="view-all-btn">load more...</button>
+      </section>
+    </main>
+
+    <!-- Event Modal -->
+    <div id="modal-overlay"></div>
+    <div id="event-modal">
+      <div id="modal-content"></div>
+    </div>
+    
+    <!-- Footer -->
+      <footer>
+        <div class="footer-content">
+          <div class="footer-logo">
+            <a href="index.html"><img src="/assets/images/es2.png" loading="lazy" alt="Logo"></a>
+          </div>
+          <div class="hyperlinks">
+            <p>Quick-links</p>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="events.html">Events</a>
+            <a href="contact.html">Contact</a>
+            <a href="post.html">Post</a>
+          </div>
+          <div class="socials">
+            <p>Socials</p>
+            <a href="#"><img src="/assets/images/FacebookImg.png" loading="lazy" alt="Facebook"></a>
+            <a href="#"><img src="/assets/images/Twitter-new-logo-1.jpeg" loading="lazy" alt="Twitter/X"></a>
+            <a href="#"><img src="/assets/images/instagramImg.jpg" loading="lazy" alt="Instagram"></a>
+            <a href="#"><img src="/assets/images/youtubeImage.jpeg" loading="lazy" alt="YouTube"></a>
+          </div>
+        </div>
+        <div class="copyright">
+          <p>&copy; 2025 Event Booking | Contact: info@eventbooking.com</p>
+        </div>
+        <a href="#" class="top">
+          <div class="go-up">
+            &Uparrow;
+          </div>
+        </a>
+      </footer>
+</body>
+</html>

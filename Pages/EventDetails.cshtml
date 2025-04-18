@@ -1,0 +1,44 @@
+@page
+@model soft20181_starter.Pages.EventDetails
+
+@{
+    Layout = null;
+}
+
+<!-- Event Details -->
+<main class="details-page">
+    <section class="search-and-filter">
+        <!-- Search Bar --> 
+        <div class="search-box">
+            <div class="search-bar">
+                <label for="searchInput"></label>
+                <input type="text" name="searchInput" id="searchInput" placeholder="Search for events" title="Search events by title or location">
+            </div>
+            <div class="search-image">
+                <img src="/assets/images/search-icon.png" loading="lazy" alt="Search Icon">
+            </div>
+        </div>
+
+        <!-- Dropdown for fee range filter -->
+        <div class="filter">
+            <span>Filter by ticket fee </span>
+            <select title="Filter" id="feeFilter" placeholder="filter">
+                <option value="all">All Fees</option>
+                <option value="below-50">Below &pound;50</option>
+                <option value="50-100">&pound;50 - &pound;100</option>
+                <option value="100-150">&pound;100 - &pound;150</option>
+                <option value="150-200">&pound;150 - &pound;200</option>
+                <option value="above-200">Above &pound;200</option>
+            </select>
+        </div>
+    </section>
+    <div class="event-details"></div>
+    <!-- Hidden Events -->
+    <div class="events hidden"></div>
+</main>
+
+<!-- Modal Notifiation -->
+<div id="modal-overlay"></div>
+<div id="event-modal">
+    <div id="modal-content"></div>
+</div>

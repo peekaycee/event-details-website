@@ -1,0 +1,25 @@
+@page
+@model soft20181_starter.Pages.EventModel
+
+<h1>Upcoming Events: </h1>
+/* @foreach (var theEvent in @Model.Events)
+{
+    <div class="border border-2 border-danger my-5">
+        <p> Event Id: @theEvent.Id</p>
+        <p> Event name: @theEvent.Name </p>
+        <p> Event Description: @theEvent.Description</p>
+        <p> Event Location: @theEvent.Location</p>
+        <p> Event Time:  @theEvent.EventDateTime. </p>
+        <p> Cover Photo: @theEvent.CoverPhoto</p>
+    </div>
+    //adding an update button
+    <a asp-page="EditEvent" asp-route-id="@theEvent.Id" class="btn btn-warning">Edit</a>
+    <a asp-page="EditEvent" asp-route-id="@theEvent.Id" asp-page-handler="Delete" class="btn btn-danger">Delete</a>
+}
+
+<div class="flex-container">
+    <div>
+        <img src="" alt=" ">
+    </div>
+</div>
+

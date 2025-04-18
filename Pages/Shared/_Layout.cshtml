@@ -1,0 +1,177 @@
+﻿@using Newtonsoft.Json
+@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - soft20181_starter</title>
+
+    $1$  Section for CSS Start #1#
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/soft20181_starter.styles.css" asp-append-version="true" />
+    $1$  Section for CSS Start #1#
+
+</head>
+<body>
+
+   $1$  Header Section Start #1#
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">LOGO</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    $1$  Header Section End #1#
+
+   
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    $1$  Footer Section Start #1#
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - SOFT20181 Starter Code
+        </div>
+    </footer>
+    $1$  Header Section End #1#
+
+
+
+    $1$  Add Site Wide JavaScript Start #1#
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../../wwwroot/js/script/event.js" asp-append-version="true"></script>
+    $1$  Add Site Wide JavaScript End #1#
+
+
+    $1$  Section for Scripts Start #1#
+    @await RenderSectionAsync("Scripts", required: false)
+    $1$  Section for Scripts End #1#
+
+</body>
+</html>*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - EventSphere</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <script defer src="script/event.js"></script>
+</head>
+<body>
+<header>
+    <div class="menu-icon">
+        <img src="/assets/images/menu-icon-1.png" loading="lazy" alt="Menu Icon">
+    </div>
+    <nav>
+        <partial name="_LoginPartial"/>
+        <a href="index.html" class="logo"><img src="/assets/images/es2.png" loading="lazy" alt="Logo"></a>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html"  class="active">About Us</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="post.html">Post</a></li>
+        </ul>
+        <ul id="menu-list">
+            <li id="close-menu"><img src="assets/images/cross.png" loading="lazy" alt="cross"></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html"  class="active">About Us</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="post.html">Post</a></li>
+        </ul>
+
+        <!-- Settings -->
+        <img class="gearIcon" title="Preference Settings" src="/assets/images/settingsIcon-removebg-preview.png" loading="lazy" alt="Setting Gear Icon">
+        <!-- *************** -->
+        <div class="customize">
+            <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+            <p class="font-sizes">Font-size</p>
+            <p class="header-background">Header background</p>
+        </div>
+
+        <!-- *************** -->
+        <div class="header-background-buttons closeButtons">
+            <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+            <button type="button" class="primary-bg">Primary</button>
+            <button type="button" class="secondary-bg">Secondary</button>
+            <button type="button" class="tertiary-bg">Tertiary</button>
+            <div class="color-picker">
+                <label for="color">Custom color:</label>
+                <input type="color" id="color">
+            </div>
+        </div>
+
+        <!-- Customization buttons -->
+        <div class="custom-buttons closeButtons">
+            <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+            <button type="button" id="smallFont">Small</button>
+            <button type="button" id="mediumFont">Medium</button>
+            <button type="button" id="largeFont">Large</button>
+        </div>
+    </nav>
+</header>
+<main>
+    @RenderBody( )  
+</main>
+
+<!-- Footer -->
+<footer>
+    <div class="footer-content">
+        <div class="footer-logo">
+            <a href="index.html"><img src="/assets/images/es2.png" loading="lazy" alt="Logo"></a>
+        </div>
+        <div class="hyperlinks">
+            <p>Quick-links</p>
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="events.html">Events</a>
+            <a href="contact.html">Contact</a>
+            <a href="post.html">Post</a>
+        </div>
+        <div class="socials">
+            <p>Socials</p>
+            <a href="#"><img src="/assets/images/FacebookImg.png" loading="lazy" alt="Facebook"></a>
+            <a href="#"><img src="/assets/images/Twitter-new-logo-1.jpeg" loading="lazy" alt="Twitter/X"></a>
+            <a href="#"><img src="/assets/images/instagramImg.jpg" loading="lazy" alt="Instagram"></a>
+            <a href="#"><img src="/assets/images/youtubeImage.jpeg" loading="lazy" alt="YouTube"></a>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>&copy; 2025 Event Booking | Contact: info@eventbooking.com</p>
+    </div>
+    <a href="#" class="top">
+        <div class="go-up">
+            & Uparrow;
+        </div>
+    </a>
+</footer>
+
+@RenderSection("Scripts", false)
+
+</body>
+</html>

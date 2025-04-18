@@ -1,0 +1,154 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>Index Page</h1>
+<main class="homepage">
+        <section class="search-and-filter">
+          <!-- Search Bar --> 
+          <div class="search-box">
+            <div class="search-bar">
+              <label for="searchInput"></label>
+              <input type="text" name="searchInput" id="searchInput" placeholder="Search for events" title="Search events by title or location">
+            </div>
+            <div class="search-image">
+              <img src="/assets/images/search-icon.png" loading="lazy" alt="Search Icon">
+            </div>
+          </div>
+  
+           <!-- Dropdown for fee range filter -->
+          <div class="filter">
+            <span>Filter by ticket fee </span>
+            <select title="Filter" id="feeFilter" placeholder="filter">
+              <option value="all">All Fees</option>
+              <option value="below-50">Below $50</option>
+              <option value="50-100">$50 - $100</option>
+              <option value="100-150">$100 - $150</option>
+              <option value="150-200">$150 - $200</option>
+              <option value="above-200">Above $200</option>
+            </select>
+          </div>
+        </section>
+      <!-- Hero -->  
+        <section class="hero">
+          <h1>Introducing <span>EventSphere</span></h1>
+            <h2>Book, Celebrate <span>&</span> Repeat!</h2>
+            <p>Seamless event planning starts here. Your go-to platform for discovering the best events across the UK!</p>
+            <div class="buttons">
+              <a href="events.html"><button type="button"  class="bookNow">Book Events</button></a>
+              <a href="post.html"><button type="button"  class="explore">Post Event</button></a>
+            </div>
+            <div class="hero-image">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="">
+            </div>
+        </section>
+
+        <!-- About -->
+        <section class="about-container">
+          <div class="about">
+            <div class="about-caption">
+              <h2>About</h2>
+              <h3>Event<span>Sphere</span></h3>
+            </div>
+            <div class="aboutImage">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="">
+            </div>
+            <div class="about-content">
+              <p>EventSphere is a platform that connects event organizers with event attendees. We provide a seamless experience for both parties, ensuring that events are well-organized and attendees are well-informed. Our platform is designed to make event planning easy and stress-free. Whether you're an event organizer or an event attendee, EventSphere has got you covered!</p>
+              <a href="about.html"><button type="button" class="see-more">see more</button></a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Brands Carousel -->
+        <section class="brands-container">
+          <div class="brands">
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div> 
+          </div>
+        </section>
+        
+        <!-- Featured Events -->        
+        <section class="featured-events">
+          <h2>Upcoming Events</h2>
+          <div class="events">
+            <button type="button" class="view-all-btn hidden">View all</button>
+          </div>
+          <a href="events.html" class="view-all">View all</a>
+        </section>
+
+        <!-- Call to Action -->
+         <section class="cta-container">
+          <div class="cta">
+            <div class="cta-text">
+              <h2>Visit.</h2>
+              <h2>Collaborate.</h2>
+              <h2>Plan.</h2>
+            </div>
+            <a href="events.html"><button type="button" class="cta-btn">
+              <p>Start Booking</p>
+              <span class="arrow">
+                &rArr;
+              </span>
+            </button></a>
+            <div class="cta-image img1">
+              <img src="/assets/images/chuttersnap.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img2">
+              <img src="/assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img3">
+              <img src="/assets/images/sky-scrapper.webp" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img4">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img5">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Cta Image">
+            </div>
+          </div>
+         </section>
+    </main>
+
+    <!-- Modal Notifiation -->
+    <div id="modal-overlay"></div>
+    <div id="event-modal">
+      <div id="modal-content"></div>
+    </div>
+  

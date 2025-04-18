@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Booking Website</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script defer src="script/index.js"></script>
+  <script defer src="script/event.js"></script>
+</head>
+<body>
+  <!-- Navigation Menu -->
+  
+  <!-- Navigation Header -->
+  <header>
+        <div class="menu-icon">
+          <img src="/assets/images/menu-icon-1.png" loading="lazy" alt="Menu Icon">
+        </div>
+        <nav>
+          <!-- Logo -->
+          <a href="index.html" class="logo"><img src="/assets/images/es2.png" loading="lazy" alt="Logo"></a>
+          
+          <!-- Navigation Menu For Larger Screens -->
+          <ul>
+            <li><a href="index.html"  class="active">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li> 
+            <li><a href="post.html">Post</a></li>
+          </ul>
+          
+          <!-- Navigation Menu For Smaller Screens -->
+          <ul id="menu-list">
+            <li id="close-menu"><img src="/assets/images/cross.png" class="cross" loading="lazy" alt="cross"></li>
+            <li><a href="index.html"  class="active">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="events.html">Events</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="post.html">Post</a></li>
+          </ul>
+          <!-- Settings -->
+        <img class="gearIcon" title="Preference Settings" src="/assets//images/settingsIcon-removebg-preview.png" loading="lazy" alt="Setting Gear Icon">
+        <!-- *************** -->
+         <div class="customize">
+          <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+          <p class="font-sizes">Font-size</p>
+          <p class="header-background">Header background</p>
+         </div>
+
+         <!-- *************** -->
+          <div class="header-background-buttons closeButtons">
+            <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+            <button type="button" class="primary-bg">Primary</button>
+            <button type="button" class="secondary-bg">Secondary</button>
+            <button type="button" class="tertiary-bg">Tertiary</button>
+            <div class="color-picker">
+              <label for="color">Custom color:</label>
+              <input type="color" id="color">
+            </div>
+          </div>
+
+         <!-- Customization buttons -->
+          <div class="custom-buttons closeButtons">
+            <img src="/assets/images/cross.png" loading="lazy" alt="cross">
+            <button type="button" id="smallFont">Small</button>
+            <button type="button" id="mediumFont">Medium</button>
+            <button type="button" id="largeFont">Large</button>
+          </div>
+        </nav>
+    </header>
+  
+    <main class="homepage">
+        <section class="search-and-filter">
+          <!-- Search Bar --> 
+          <div class="search-box">
+            <div class="search-bar">
+              <label for="searchInput"></label>
+              <input type="text" name="searchInput" id="searchInput" placeholder="Search for events" title="Search events by title or location">
+            </div>
+            <div class="search-image">
+              <img src="/assets/images/search-icon.png" loading="lazy" alt="Search Icon">
+            </div>
+          </div>
+  
+           <!-- Dropdown for fee range filter -->
+          <div class="filter">
+            <span>Filter by ticket fee </span>
+            <select title="Filter" id="feeFilter" placeholder="filter">
+              <option value="all">All Fees</option>
+              <option value="below-50">Below $50</option>
+              <option value="50-100">$50 - $100</option>
+              <option value="100-150">$100 - $150</option>
+              <option value="150-200">$150 - $200</option>
+              <option value="above-200">Above $200</option>
+            </select>
+          </div>
+        </section>
+      <!-- Hero -->  
+        <section class="hero">
+          <h1>Introducing <span>EventSphere</span></h1>
+            <h2>Book, Celebrate <span>&</span> Repeat!</h2>
+            <p>Seamless event planning starts here. Your go-to platform for discovering the best events across the UK!</p>
+            <div class="buttons">
+              <a href="events.html"><button type="button"  class="bookNow">Book Events</button></a>
+              <a href="post.html"><button type="button"  class="explore">Post Event</button></a>
+            </div>
+            <div class="hero-image">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="">
+            </div>
+        </section>
+
+        <!-- About -->
+        <section class="about-container">
+          <div class="about">
+            <div class="about-caption">
+              <h2>About</h2>
+              <h3>Event<span>Sphere</span></h3>
+            </div>
+            <div class="aboutImage">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="">
+            </div>
+            <div class="about-content">
+              <p>EventSphere is a platform that connects event organizers with event attendees. We provide a seamless experience for both parties, ensuring that events are well-organized and attendees are well-informed. Our platform is designed to make event planning easy and stress-free. Whether you're an event organizer or an event attendee, EventSphere has got you covered!</p>
+              <a href="about.html"><button type="button" class="see-more">see more</button></a>
+            </div>
+          </div>
+        </section>
+
+        <!-- Brands Carousel -->
+        <section class="brands-container">
+          <div class="brands">
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Brand Logo">
+            </div>
+            <div class="brand">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Brand Logo">
+            </div> 
+          </div>
+        </section>
+        
+        <!-- Featured Events -->        
+        <section class="featured-events">
+          <h2>Upcoming Events</h2>
+          <div class="events">
+            <button type="button" class="view-all-btn hidden">View all</button>
+          </div>
+          <a href="events.html" class="view-all">View all</a>
+        </section>
+
+        <!-- Call to Action -->
+         <section class="cta-container">
+          <div class="cta">
+            <div class="cta-text">
+              <h2>Visit.</h2>
+              <h2>Collaborate.</h2>
+              <h2>Plan.</h2>
+            </div>
+            <a href="events.html"><button type="button" class="cta-btn">
+              <p>Start Booking</p>
+              <span class="arrow">
+                &rArr;
+              </span>
+            </button></a>
+            <div class="cta-image img1">
+              <img src="/assets/images/chuttersnap.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img2">
+              <img src="/assets/images/pablo-heimplatz.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img3">
+              <img src="/assets/images/sky-scrapper.webp" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img4">
+              <img src="./assets/images/chuttersnap.jpg" loading="lazy" alt="Cta Image">
+            </div>
+            <div class="cta-image img5">
+              <img src="./assets/images/sky-scrapper.webp" loading="lazy" alt="Cta Image">
+            </div>
+          </div>
+         </section>
+    </main>
+
+    <!-- Modal Notifiation -->
+    <div id="modal-overlay"></div>
+    <div id="event-modal">
+      <div id="modal-content"></div>
+    </div>
+  
+    <!-- Footer -->
+    <footer>
+      <div class="footer-content">
+        <div class="footer-logo">
+          <a href="index.html">
+            <img src="/assets/images/es2.png" loading="lazy" alt="Logo" class="Logo">
+          </a>
+        </div>
+        <div class="hyperlinks">
+          <p>Quick-links</p>
+          <a href="index.html">Home</a>
+          <a href="about.html">About Us</a>
+          <a href="events.html">Events</a>
+          <a href="contact.html">Contact</a>
+          <a href="post.html">Post</a>
+        </div>
+        <div class="socials">
+          <p>Socials</p>
+          <a href="#"><img src="/assets/images/FacebookImg.png" loading="lazy" alt="Facebook"></a>
+          <a href="#"><img src="/assets/images/Twitter-new-logo-1.jpeg" loading="lazy" alt="Twitter/X"></a>
+          <a href="#"><img src="/assets/images/instagramImg.jpg" loading="lazy" alt="Instagram"></a>
+          <a href="#"><img src="/assets/images/youtubeImage.jpeg" loading="lazy" alt="YouTube"></a>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>&copy; 2025 Event Booking | Contact: info@eventbooking.com</p>
+      </div>
+      <a href="#" class="top">
+        <div class="go-up">
+          &Uparrow;
+        </div>
+      </a>
+    </footer>
+</body>
+</html>

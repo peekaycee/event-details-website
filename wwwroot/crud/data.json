@@ -1,0 +1,92 @@
+[
+  {
+    "id": 63081,
+    "imageUrl": "xyz",
+    "videoUrl": "xyz",
+    "title": "xyz",
+    "description": "xyz",
+    "location": "xyz",
+    "date": "2025-05-11",
+    "fee": "999"
+  },
+  {
+    "id": 62472,
+    "imageUrl": "chuttersnap.jpg",
+    "videoUrl": "reels.mp4",
+    "title": "Python",
+    "description": "A brief description of the event Python",
+    "location": "Totonto",
+    "date": "2025-02-20",
+    "fee": "120"
+  },
+  {
+    "id": 3617,
+    "imageUrl": "sky-scrapper.webp",
+    "videoUrl": "reels.mp4",
+    "title": "Web3 Conference",
+    "description": "A brief description about the event Web3 Conference",
+    "location": "London",
+    "date": "2025-01-15",
+    "fee": "25"
+  },
+  {
+    "id": 37032,
+    "imageUrl": "rb_2148893295.png",
+    "videoUrl": "reels.mp4",
+    "title": "NextJs",
+    "description": "A brief description about the event NextJs",
+    "location": "Texas",
+    "date": "2025-01-26",
+    "fee": "325"
+  },
+  {
+    "id": 27345,
+    "imageUrl": "chuttersnap.jpg",
+    "videoUrl": "reels.mp4",
+    "title": "Native React",
+    "description": "A brief description about the event Native React",
+    "location": "Houston",
+    "date": "2025-01-22",
+    "fee": "400"
+  },
+  {
+    "id": 2399,
+    "imageUrl": "rb_2148893295.png",
+    "videoUrl": "reels.mp4",
+    "title": "Flutter",
+    "description": "A brief description about the event Flutter",
+    "location": "Trent",
+    "date": "2025-01-19",
+    "fee": "650"
+  },
+  {
+    "id": 78536,
+    "imageUrl": "pablo-heimplatz.jpg",
+    "videoUrl": "reels.mp4",
+    "title": "Dart Programming Language",
+    "description": "A brief description about the event Dart Programming Language",
+    "location": "Houston",
+    "date": "2025-02-03",
+    "fee": "132"
+  },
+  {
+    "id": 13477,
+    "imageUrl": "rb_2148893295.png",
+    "videoUrl": "reels.mp4",
+    "title": "Javascript",
+    "description": "A brief description about the event Javascript",
+    "location": "London",
+    "date": "2025-01-25",
+    "fee": "200"
+  },
+  {
+    "id": 8157,
+    "imageUrl": "sky-scrapper.webp",
+    "videoUrl": "reels.mp4",
+    "title": "Typecsript",
+    "description": "A brief description about the event Typecsript",
+    "location": "Hamingburgh",
+    "date": "2025-01-31",
+    "fee": "111"
+  }
+]

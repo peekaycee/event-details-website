@@ -1,0 +1,2689 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\soft20181_starter.bundle.scp.css",
+      "PackagePath": "staticwebassets\\soft20181_starter.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\FacebookImg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\FacebookImg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\Twitter-new-logo-1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Twitter-new-logo-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\chuttersnap.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\chuttersnap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\cross.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\deleteIcon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\deleteIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\editIcon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\editIcon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\es2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\es2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\hd-white-large-heart-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\hd-white-large-heart-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\instagramImg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagramImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\love-colored.png",
+      "PackagePath": "staticwebassets\\assets\\images\\love-colored.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\menu-icon-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\menu-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\pablo-heimplatz.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pablo-heimplatz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\rb_2148893295.png",
+      "PackagePath": "staticwebassets\\assets\\images\\rb_2148893295.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\settingsIcon-removebg-preview.png",
+      "PackagePath": "staticwebassets\\assets\\images\\settingsIcon-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\settingsIcon.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\settingsIcon.avif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\settingsIcon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\settingsIcon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\sky-scrapper.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\sky-scrapper.webp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\images\\youtubeImage.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\youtubeImage.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\assets\\videos\\reels.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\reels.mp4"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\data.json",
+      "PackagePath": "staticwebassets\\crud\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\.bin\\mime",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\.bin"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\.bin\\mime.cmd",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\.bin\\mime.cmd"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\.bin\\mime.ps1",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\.bin\\mime.ps1"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\.package-lock.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\.package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\accepts\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\accepts\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\accepts\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\accepts"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\accepts\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\accepts\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\accepts\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\accepts\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\accepts\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\accepts\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\array-flatten\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\array-flatten"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\array-flatten\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\array-flatten\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\array-flatten\\array-flatten.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\array-flatten\\array-flatten.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\array-flatten\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\array-flatten\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\lib\\read.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\lib\\read.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\lib\\types\\json.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\lib\\types\\json.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\lib\\types\\raw.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\lib\\types\\raw.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\lib\\types\\text.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\lib\\types\\text.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\lib\\types\\urlencoded.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\lib\\types\\urlencoded.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\body-parser\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\body-parser\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\bytes\\History.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\bytes\\History.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\bytes\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\bytes"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\bytes\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\bytes\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\bytes\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\bytes\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\bytes\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\bytes\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\actualApply.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\actualApply.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\applyBind.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\applyBind.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\functionApply.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\functionApply.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\functionCall.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\functionCall.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\reflectApply.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\reflectApply.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bind-apply-helpers\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bind-apply-helpers\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\call-bound\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\call-bound\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-disposition\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-disposition\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-disposition\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-disposition"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-disposition\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-disposition\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-disposition\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-disposition\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-disposition\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-disposition\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-type\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-type\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-type\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-type"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-type\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-type\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-type\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-type\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\content-type\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\content-type\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie-signature\\.npmignore",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie-signature\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie-signature\\History.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie-signature\\History.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie-signature\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie-signature\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie-signature\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie-signature\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie-signature\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie-signature\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cookie\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cookie\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\lib\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors\\lib\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\cors\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\cors\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\.coveralls.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\.coveralls.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\.npmignore",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\.travis.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\Makefile",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\component.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\karma.conf.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\node.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\node.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\src\\browser.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\src\\browser.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\src\\debug.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\src\\debug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\src\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\src\\inspector-log.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\src\\inspector-log.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\debug\\src\\node.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\debug\\src\\node.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\History.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd\\History.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\lib\\browser\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd\\lib\\browser\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\depd\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\depd\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\destroy\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\destroy"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\destroy\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\destroy\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\destroy\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\destroy\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\destroy\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\destroy\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\get.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\get.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\set.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\set.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\test\\get.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\test\\get.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\test\\set.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\test\\set.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\dunder-proto\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\dunder-proto\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ee-first\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ee-first"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ee-first\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ee-first\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ee-first\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ee-first\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ee-first\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ee-first\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\encodeurl\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\encodeurl"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\encodeurl\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\encodeurl\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\encodeurl\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\encodeurl\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\encodeurl\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\encodeurl\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-define-property\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-define-property\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\eval.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\eval.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\range.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\ref.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\ref.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\syntax.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\syntax.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\type.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\type.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-errors\\uri.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-errors\\uri.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\RequireObjectCoercible.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\RequireObjectCoercible.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\ToObject.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\ToObject.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\es-object-atoms\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\es-object-atoms\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\escape-html\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\escape-html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\escape-html\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\escape-html\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\escape-html\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\escape-html\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\escape-html\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\escape-html\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\etag\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\etag\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\etag\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\etag"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\etag\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\etag\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\etag\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\etag\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\etag\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\etag\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\History.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\History.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\application.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\application.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\express.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\express.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\middleware\\init.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\middleware\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\middleware\\query.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\middleware\\query.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\request.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\request.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\response.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\response.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\router\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\router\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\router\\layer.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\router\\layer.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\router\\route.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\router\\route.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\utils.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\lib\\view.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\lib\\view.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\express\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\express\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\finalhandler\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\finalhandler\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\forwarded\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\forwarded\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\forwarded\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\forwarded"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\forwarded\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\forwarded\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\forwarded\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\forwarded\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\forwarded\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\forwarded\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fresh\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fresh\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fresh\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fresh"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fresh\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fresh\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fresh\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fresh\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fresh\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fresh\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fs\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\fs\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\fs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\.github\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\.github\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\implementation.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\implementation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\test\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\test\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\function-bind\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\function-bind\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\get-intrinsic\\test\\GetIntrinsic.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\get-intrinsic\\test\\GetIntrinsic.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\gOPD.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\gOPD.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\gopd\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\gopd\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\shams.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\shams.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\test\\shams\\core-js.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\test\\shams\\core-js.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\test\\shams\\get-own-property-symbols.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\test\\shams\\get-own-property-symbols.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\test\\tests.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\test\\tests.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\has-symbols\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\has-symbols\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\hasown\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\hasown\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\http-errors\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\http-errors\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\http-errors\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\http-errors"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\http-errors\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\http-errors\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\http-errors\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\http-errors\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\http-errors\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\http-errors\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\Changelog.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\Changelog.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\dbcs-codec.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\dbcs-codec.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\dbcs-data.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\dbcs-data.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\internal.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\internal.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-codec.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-codec.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-data-generated.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-data-generated.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-data.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\sbcs-data.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\big5-added.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\big5-added.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp936.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp936.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp949.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp949.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp950.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\cp950.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\eucjp.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\eucjp.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\gb18030-ranges.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\gb18030-ranges.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\gbk-added.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\gbk-added.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\tables\\shiftjis.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\tables\\shiftjis.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\utf16.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\utf16.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\encodings\\utf7.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\encodings\\utf7.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\lib\\bom-handling.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\lib\\bom-handling.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\lib\\extend-node.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\lib\\extend-node.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\lib\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\lib\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\lib\\streams.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\lib\\streams.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\iconv-lite\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\iconv-lite\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\inherits\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\inherits"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\inherits\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\inherits\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\inherits\\inherits.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\inherits\\inherits.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\inherits\\inherits_browser.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\inherits\\inherits_browser.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\inherits\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\inherits\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ipaddr.js\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ipaddr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ipaddr.js\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ipaddr.js\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ipaddr.js\\ipaddr.min.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ipaddr.js\\ipaddr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ipaddr.js\\lib\\ipaddr.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ipaddr.js\\lib\\ipaddr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ipaddr.js\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ipaddr.js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\abs.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\abs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\constants\\maxArrayLength.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\constants\\maxArrayLength.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\constants\\maxSafeInteger.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\constants\\maxSafeInteger.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\constants\\maxValue.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\constants\\maxValue.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\floor.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\floor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\isFinite.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\isFinite.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\isInteger.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\isInteger.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\isNaN.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\isNaN.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\isNegativeZero.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\isNegativeZero.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\max.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\max.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\min.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\mod.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\mod.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\pow.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\pow.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\round.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\round.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\sign.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\sign.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\math-intrinsics\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\math-intrinsics\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\media-typer\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\media-typer\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\media-typer\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\media-typer"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\media-typer\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\media-typer\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\media-typer\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\media-typer\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\media-typer\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\media-typer\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\merge-descriptors\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\merge-descriptors\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\merge-descriptors\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\merge-descriptors"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\merge-descriptors\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\merge-descriptors\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\merge-descriptors\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\merge-descriptors\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\merge-descriptors\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\merge-descriptors\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\methods\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\methods\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\methods\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\methods"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\methods\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\methods\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\methods\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\methods\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\methods\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\methods\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\db.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db\\db.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-db\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-db\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-types\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-types\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-types\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-types"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-types\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-types\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-types\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-types\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime-types\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime-types\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\.npmignore",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\cli.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\cli.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\mime.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\mime.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\src\\build.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\src\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\src\\test.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\src\\test.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\mime\\types.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\mime\\types.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ms\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ms\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ms\\license.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ms\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ms\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ms\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\ms\\readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\ms\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\lib\\charset.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\lib\\charset.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\lib\\encoding.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\lib\\encoding.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\lib\\language.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\lib\\language.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\lib\\mediaType.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\lib\\mediaType.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\negotiator\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\negotiator\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-assign\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-assign\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-assign\\license",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-assign"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-assign\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-assign\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-assign\\readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-assign\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\example\\all.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\example\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\example\\circular.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\example\\circular.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\example\\fn.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\example\\fn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\example\\inspect.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\example\\inspect.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\package-support.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\package-support.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\readme.markdown",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\readme.markdown"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test-core-js.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test-core-js.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\bigint.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\bigint.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\browser\\dom.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\browser\\dom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\circular.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\circular.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\deep.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\deep.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\element.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\element.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\err.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\err.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\fakes.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\fakes.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\fn.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\fn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\global.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\global.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\has.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\has.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\holes.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\holes.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\indent-option.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\indent-option.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\inspect.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\inspect.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\lowbyte.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\lowbyte.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\number.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\number.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\quoteStyle.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\quoteStyle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\toStringTag.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\toStringTag.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\undef.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\undef.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\test\\values.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\test\\values.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\object-inspect\\util.inspect.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\object-inspect\\util.inspect.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\on-finished\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\on-finished\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\on-finished\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\on-finished"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\on-finished\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\on-finished\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\on-finished\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\on-finished\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\on-finished\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\on-finished\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\parseurl\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\parseurl\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\parseurl\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\parseurl"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\parseurl\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\parseurl\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\parseurl\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\parseurl\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\parseurl\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\parseurl\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\path-to-regexp\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\path-to-regexp"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\path-to-regexp\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\path-to-regexp\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\path-to-regexp\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\path-to-regexp\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\path-to-regexp\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\path-to-regexp\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\proxy-addr\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\proxy-addr\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\proxy-addr\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\proxy-addr"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\proxy-addr\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\proxy-addr\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\proxy-addr\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\proxy-addr\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\proxy-addr\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\proxy-addr\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\.editorconfig",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\LICENSE.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\dist\\qs.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\dist\\qs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\lib\\formats.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\lib\\formats.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\lib\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\lib\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\lib\\parse.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\lib\\parse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\lib\\stringify.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\lib\\stringify.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\lib\\utils.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\lib\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\test\\empty-keys-cases.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\test\\empty-keys-cases.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\test\\parse.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\test\\parse.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\test\\stringify.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\test\\stringify.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\qs\\test\\utils.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\qs\\test\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\range-parser\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\range-parser\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\range-parser\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\range-parser"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\range-parser\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\range-parser\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\range-parser\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\range-parser\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\range-parser\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\range-parser\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\raw-body\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\raw-body\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safe-buffer\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safe-buffer"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safe-buffer\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safe-buffer\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safe-buffer\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safe-buffer\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safe-buffer\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safe-buffer\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\Porting-Buffer.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\Porting-Buffer.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\Readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\Readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\dangerous.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\dangerous.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\safer.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\safer.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\safer-buffer\\tests.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\safer-buffer\\tests.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\SECURITY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\encodeurl\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\encodeurl\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\encodeurl\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\encodeurl"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\encodeurl\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\encodeurl\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\encodeurl\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\encodeurl\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\encodeurl\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\encodeurl\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\ms\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\ms\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\ms\\license.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\ms\\license.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\ms\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\ms\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\node_modules\\ms\\readme.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\node_modules\\ms\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\send\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\send\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\serve-static\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\serve-static\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\serve-static\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\serve-static"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\serve-static\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\serve-static\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\serve-static\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\serve-static\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\serve-static\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\serve-static\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\setprototypeof\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\setprototypeof"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\setprototypeof\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\setprototypeof\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\setprototypeof\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\setprototypeof\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\setprototypeof\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\setprototypeof\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\setprototypeof\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\setprototypeof\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\.editorconfig",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-list\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-list\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\.editorconfig",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-map\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-map\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\.editorconfig",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel-weakmap\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel-weakmap\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\.editorconfig",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\.eslintrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\.eslintrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\.github\\FUNDING.yml",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\.github\\FUNDING.yml"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\.nycrc",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\.nycrc"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\test\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\test\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\side-channel\\tsconfig.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\side-channel\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\codes.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses\\codes.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\statuses\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\statuses\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\toidentifier\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\toidentifier\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\toidentifier\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\toidentifier"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\toidentifier\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\toidentifier\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\toidentifier\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\toidentifier\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\toidentifier\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\toidentifier\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\type-is\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\type-is\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\type-is\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\type-is"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\type-is\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\type-is\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\type-is\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\type-is\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\type-is\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\type-is\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\unpipe\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\unpipe\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\unpipe\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\unpipe"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\unpipe\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\unpipe\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\unpipe\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\unpipe\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\unpipe\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\unpipe\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\utils-merge\\.npmignore",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\utils-merge\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\utils-merge\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\utils-merge"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\utils-merge\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\utils-merge\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\utils-merge\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\utils-merge\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\utils-merge\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\utils-merge\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\vary\\HISTORY.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\vary\\HISTORY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\vary\\LICENSE",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\vary"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\vary\\README.md",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\vary\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\vary\\index.js",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\vary\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\node_modules\\vary\\package.json",
+      "PackagePath": "staticwebassets\\crud\\node_modules\\vary\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\package-lock.json",
+      "PackagePath": "staticwebassets\\crud\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\package.json",
+      "PackagePath": "staticwebassets\\crud\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\server.js",
+      "PackagePath": "staticwebassets\\crud\\server.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\crud\\updateTimestamps.js",
+      "PackagePath": "staticwebassets\\crud\\updateTimestamps.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\event-detail.html",
+      "PackagePath": "staticwebassets\\event-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\events.html",
+      "PackagePath": "staticwebassets\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\post.html",
+      "PackagePath": "staticwebassets\\post.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\script\\contact.js",
+      "PackagePath": "staticwebassets\\script\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\script\\details.js",
+      "PackagePath": "staticwebassets\\script\\details.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\script\\event.js",
+      "PackagePath": "staticwebassets\\script\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\script\\index.js",
+      "PackagePath": "staticwebassets\\script\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\soft20181_starter\\soft20181_starter\\wwwroot\\script\\post.js",
+      "PackagePath": "staticwebassets\\script\\post.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.soft20181_starter.props",
+      "PackagePath": "build\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.soft20181_starter.props",
+      "PackagePath": "buildMultiTargeting\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.soft20181_starter.props",
+      "PackagePath": "buildTransitive\\soft20181_starter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.soft20181_starter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
