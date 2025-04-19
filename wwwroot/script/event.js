@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Dynamic Event Display: Fetch data from the JSON file API 
   async function fetchData() {
     try {
-      const response = await fetch('http://localhost:5500/items');
+      const response = await fetch('http://localhost:5500/events');
       if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
 
       eventsData = await response.json();

@@ -3,12 +3,12 @@ let data = []; // Initialize data array
 const dataContainer = document.querySelector('#dataContainer');
 const form = document.querySelector('#crudForm');
 const blurMain = document.querySelector('main');
-let editingId = null; // Store the id of the item being edited
+let editingId = null; // Store the id of the event being edited
 
 // Fetch data from the server
 async function fetchData() {
   try {
-    const response = await fetch('http://localhost:5500/items');
+    const response = await fetch('http://localhost:5500/events');
     if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
     data = await response.json();
     renderUI();
@@ -55,51 +55,46 @@ form.addEventListener('submit', async (e) => {
   const date = document.getElementById('date').value;
   const fee = document.getElementById('fee').value;
 
-  // Generate a random ID for new items
-  const randomId = Math.floor(Math.random() * 100000);
-
-  const newItem = { id: randomId, imageUrl, videoUrl, title, description, location, date, fee };
+  const newItem = { imageUrl, videoUrl, title, description, location, date, fee };
 
   try {
     let response;
     if (editingId === null) {
-      // Add a new item
-      response = await fetch('http://localhost:5500/items', {
+      // Add new
+      response = await fetch('http://localhost:5500/events', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(newItem),
-      });
-
-      if (response.ok) {
-        const savedItem = await response.json();
-        data.push(savedItem); // Append new item to the end of the data array
-      }
-    } else {
-      // Update existing item
-      response = await fetch(`http://localhost:5500/items/${editingId}`, {
-        method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(newItem),
       });
 
       if (response.ok) {
         const savedItem = await response.json();
-        const index = data.findIndex((item) => item.id === editingId);
-        data[index] = savedItem;
+        data.unshift(savedItem);
+      }
+    } else {
+      // Update existing
+      response = await fetch(`http://localhost:5500/events/${editingId}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(newItem),
+      });
+
+      if (response.ok) {
+        await fetchData(); // ✅ Get latest data from backend after update
       }
     }
 
     renderUI();
     form.reset();
     closeForm();
-    editingId = null; // Reset the editing state
+    editingId = null;
   } catch (error) {
-    console.error('Error adding/updating item:', error);
-    alert('Failed to add/update item.');
+    console.error('Error adding/updating event:', error);
+    alert('Failed to add/update event.');
   }
 });
+
+
 
 // Edit an item
 async function editItem(id) {
@@ -124,7 +119,7 @@ async function editItem(id) {
 // Delete an item
 async function deleteItem(id) {
   try {
-    const response = await fetch(`http://localhost:5500/items/${id}`, {
+    const response = await fetch(`http://localhost:5500/events/${id}`, {
       method: 'DELETE',
     });
 
