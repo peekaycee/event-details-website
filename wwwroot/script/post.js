@@ -31,7 +31,7 @@ function renderUI() {
       <td>${item.title}</td>
       <td>${item.description}</td>
       <td>${item.location}</td>
-      <td>${item.date}</td>
+      <td>${moment(item.date).format('MMMM Do, YYYY')}</td>
       <td>${item.fee}</td>
       <td>
       <div class='btnContainer'>
@@ -80,7 +80,7 @@ form.addEventListener('submit', async (e) => {
       });
 
       if (response.ok) {
-        await fetchData(); // ✅ Get latest data from backend after update
+        await fetchData();
       }
     }
 
@@ -94,15 +94,12 @@ form.addEventListener('submit', async (e) => {
   }
 });
 
-
-
 // Edit an item
 async function editItem(id) {
   const item = data.find((item) => item.id === id);
   if (item) {
     openForm();
 
-    // Pre-fill the form with the current values
     document.getElementById('imageUrl').value = item.imageUrl;
     document.getElementById('videoUrl').value = item.videoUrl;
     document.getElementById('title').value = item.title;
@@ -111,7 +108,6 @@ async function editItem(id) {
     document.getElementById('date').value = item.date;
     document.getElementById('fee').value = item.fee;
 
-    // Set the editingId to track which item is being edited
     editingId = id;
   }
 }
